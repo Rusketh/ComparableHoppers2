@@ -32,9 +32,5 @@ This issue tracker is for Comparbale Hopper 2 Buyers only, if you have an issue 
    E.G Craft a comparable upgrade using the default recipie.
    A: Answer Here
    
-9) Q: Please describe how to replicate the issue, being as specific as possible.
-   E.G Craft a comparable upgrade using the default recipie.
-   A: Answer Here  
-   
-10) Q: Anything else you think we should know about your issue?
+8) Q: Anything else you think we should know about your issue?
     A: Answer Here  
