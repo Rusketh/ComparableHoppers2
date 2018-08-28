@@ -10,7 +10,11 @@ This issue tracker is for Comparbale Hopper 2 Buyers only, if you have an issue 
    E.G 1.8.8, 1.12.1, 1.12.2
    A: Answer Here
 
-3) Q: What is your CH2 version?
+3.1) Q: What is your product?
+   E.G: CH2 Basic, CH2 Paid, CH2 Spawners...
+   A: Answer Here
+   
+3.2) Q: What is your Product version?
    E.G CH 2.3.1 for MC 1.12.x
    A: Answer Here
 
